@@ -1,5 +1,5 @@
 proxies:
-- name: AKRAB Weekly15.0901
+- name: AKRAB Weekly15.0901a
   server: 104.18.3.2
   port: 443
   type: trojan
